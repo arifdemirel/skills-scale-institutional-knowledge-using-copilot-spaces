@@ -127,10 +127,9 @@ Our project management approach is guided by five fundamental principles:
 
 Consistent communication keeps everyone aligned and informed:
 
-- **Daily standups**: 15-minute team sync on progress, blockers, and dependencies
+- **Team standups**: Daily or twice-weekly (as agreed by the team) - 15-minute sync on progress, blockers, and dependencies
 - **Weekly PM + PdM sync**: Alignment on priorities, risks, and decisions
-- **Twice-weekly delivery team standups**: Or as agreed by the team
-- **Sprint/milestone demos**: Show progress and gather feedback
+- **Sprint/milestone demos**: Show progress and gather feedback at the end of each sprint
 - **Monthly stakeholder updates**: High-level status and key decisions
 - **Ad-hoc escalations**: As needed for critical issues
 
